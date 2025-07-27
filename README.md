@@ -53,10 +53,7 @@ I’m a B.Tech Graduate specializing in Computer Science, passionate about creat
 
 ---
 
-<!-- Replaced Top Languages chart with Java badge -->
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asish-74&show_icons=true&locale=en&layout=compact" alt="asish-74" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asish-74&show_icons=true&locale=en" alt="asish-74" /></p>
 
