@@ -4,7 +4,7 @@
 I’m a B.Tech Graduate specializing in Computer Science, passionate about creating efficient and scalable software solutions. With a strong foundation in programming and web development, I enjoy turning ideas into code and solving real-world problems.
 
 *🌟 Skills & Technologies*
-- Languages: Java, HTML, CSS, JavaScript, SQL , ReactJs
+- Languages: Java, HTML, CSS, JavaScript, SQL , ReactJS
 - Certifications: Web Development (SkillIndia), AI Ethics (IBM), Java(MotionCut)
 - Interests: Full Stack Development, Software Engineering, AI & Ethics
 
