@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 🎓 **B.Tech Graduate in Computer Science**  
 💻 Passionate about **Software Development** and **Data Engineering**  
 ☁️ Learning how to build **data pipelines** using *Python, AWS, PySpark,* and *Databricks*  
