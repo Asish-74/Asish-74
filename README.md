@@ -2,7 +2,7 @@
 
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Asish+Khuntia!;A+Full+Stack+Developer+from+India!;Java+%7C+Python+%7C+React+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Asish+Khuntia!;Java+%7C+Python+%7C+SQL+%7C+AWS+Learner;Aspiring+Data+Engineer+🚀" alt="Typing SVG" />
 </h1>
 
 <img align="right" alt="Coding" width="420" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
@@ -11,9 +11,10 @@
 
 ### 🧠 About Me  
 🎓 **B.Tech Graduate in Computer Science**  
-💻 Passionate about **Full Stack Development** & **Scalable Software Solutions**  
-🚀 Constantly learning and improving my skills in **Web Development** and **Data Analysis**  
-✨ I enjoy turning ideas into real-world applications  
+💻 Passionate about **Software Development** and **Data Engineering**  
+☁️ Learning how to build **data pipelines** using *Python, AWS, PySpark,* and *Databricks*  
+🚀 Skilled in **Java, SQL, HTML, CSS, JavaScript**, with growing expertise in **Data Engineering tools**  
+✨ I love combining **programming + data** to create efficient and scalable solutions  
 
 📫 Reach me at **asishkhuntia74@gmail.com**  
 
@@ -27,19 +28,28 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### 📊 Data Science & Libraries  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+#### 📊 Data Engineering & Cloud  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🗄️ Databases & Tools  
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+#### 🧰 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+### 🚀 Current Focus  
+- 📘 Learning **Python for Data Engineering** and **ETL pipeline development**  
+- ☁️ Exploring **AWS Cloud Services** (S3, Lambda, Glue, Redshift)  
+- ⚙️ Working with **PySpark** and **Databricks** for large-scale data processing  
+- 🧩 Practicing **SQL and database optimization**  
+- 💡 Strengthening **Java + Web fundamentals** for backend and logic building  
 
 ---
 
@@ -47,23 +57,6 @@
 - **Web Development** — *Skill India*  
 - **AI Ethics** — *IBM*  
 - **Java** — *MotionCut*  
-
----
-
-### 🚀 Current Focus  
-- Building and contributing to **Full Stack Projects** using *React + Spring Boot*  
-- Exploring **Data Visualization** with *Matplotlib & Pandas*  
-- Practicing **Java + SQL problem-solving** for interviews  
-
----
-
-### 🧩 Featured Projects  
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🎵 **Music Track Management API** | RESTful CRUD project for managing songs like HackerRank tracks. | Java, Spring Boot, SQL |
-| 📊 **Data Insights Dashboard** | Visualizes data using Pandas and Matplotlib. | Python, Pandas, Matplotlib |
-| 🌐 **Portfolio Website** | Personal responsive portfolio built from scratch. | HTML, CSS, JS, React |
 
 ---
 
@@ -83,12 +76,14 @@
 <p align="center">
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a>
+  <a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40"/></a>
+  <a href="https://www.databricks.com/"><img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="40"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
-  <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-  <a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://matplotlib.org"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
   <a href="https://www.oracle.com/database/"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="40"/></a>
 </p>
 
@@ -107,6 +102,6 @@
 ---
 
 ### ✨ Fun Fact  
-💬 I believe in **"Code, Create, and Conquer"** — every error is just a new opportunity to learn something amazing!
+💬 *“Turning data into decisions and ideas into impact — one line of code at a time.”*
 
 ---
