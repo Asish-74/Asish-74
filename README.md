@@ -10,19 +10,19 @@
 ---
 
 ### About Me  
-🎓 **B.Tech Graduate in Computer Science**  
-💻 Passionate about **Software Development** and **Data Engineering**  
-☁️ Learning how to build **data pipelines** using *Python, AWS, PySpark,* and *Databricks*  
-🚀 Skilled in **Java, SQL, HTML, CSS, JavaScript**, with growing expertise in **Data Engineering tools**  
-✨ I love combining **programming + data** to create efficient and scalable solutions  
+ **B.Tech Graduate in Computer Science**  
+ Passionate about **Software Development** and **Data Engineering**  
+ Learning how to build **data pipelines** using *Python, AWS, PySpark,* and *Databricks*  
+ Skilled in **Java, SQL, HTML, CSS, JavaScript**, with growing expertise in **Data Engineering tools**  
+ I love combining **programming + data** to create efficient and scalable solutions  
 
-📫 Reach me at **asishkhuntia74@gmail.com**  
+ Reach me at **asishkhuntia74@gmail.com**  
 
 ---
 
 ### ⚙️ Skills & Technologies
 
-#### 💻 Programming & Web  
+#### Programming & Web  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,15 +45,15 @@
 ---
 
 ### 🚀 Current Focus  
-- 📘 Learning **Python for Data Engineering** and **ETL pipeline development**  
-- ☁️ Exploring **AWS Cloud Services** (S3, Lambda, Glue, Redshift)  
-- ⚙️ Working with **PySpark** and **Databricks** for large-scale data processing  
-- 🧩 Practicing **SQL and database optimization**  
-- 💡 Strengthening **Java + Web fundamentals** for backend and logic building  
+-  Learning **Python for Data Engineering** and **ETL pipeline development**  
+-  Exploring **AWS Cloud Services** (S3, Lambda, Glue, Redshift)  
+-  Working with **PySpark** and **Databricks** for large-scale data processing  
+-  Practicing **SQL and database optimization**  
+-  Strengthening **Java + Web fundamentals** for backend and logic building  
 
 ---
 
-### 🏆 Certifications  
+###  Certifications  
 - **Web Development** — *Skill India*  
 - **AI Ethics** — *IBM*  
 - **Java** — *MotionCut*  
@@ -72,7 +72,7 @@
 
 ---
 
-### 🛠️ Languages & Tools Visuals  
+###  Languages & Tools Visuals  
 <p align="center">
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
@@ -89,7 +89,7 @@
 
 ---
 
-### 📈 GitHub Stats  
+###  GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asish-74&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asish-74&theme=tokyonight" />
