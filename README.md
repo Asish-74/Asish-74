@@ -4,13 +4,15 @@
 I’m a B.Tech Graduate specializing in Computer Science, passionate about creating efficient and scalable software solutions. With a strong foundation in programming and web development, I enjoy turning ideas into code and solving real-world problems.
 
 ### 🌟 Skills & Technologies
-- Languages: Java, HTML, CSS, JavaScript, SQL, ReactJS  
-- Certifications: Web Development (SkillIndia), AI Ethics (IBM), Java (MotionCut)  
-- Interests: Full Stack Development, Software Engineering, AI & Ethics  
+- **Languages:** Java, Python, HTML, CSS, JavaScript, SQL  
+- **Libraries/Frameworks:** ReactJS, NumPy, Pandas, Matplotlib  
+- **Tools:** Git, GitHub, Git Bash, Oracle SQL  
+- **Certifications:** Web Development (SkillIndia), AI Ethics (IBM), Java (MotionCut)  
+- **Interests:** Full Stack Development, Software Engineering, AI & Ethics  
 
 ### 🚀 What I’m working on
 - Building and collaborating on projects that leverage modern web technologies  
-- Exploring advanced concepts in full stack development and scalable system design  
+- Exploring advanced concepts in full stack development, data analysis, and scalable system design  
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=asish-74&label=Profile%20views&color=0e75b6&style=flat" alt="asish-74" /> 
@@ -34,6 +36,18 @@ I’m a B.Tech Graduate specializing in Computer Science, passionate about creat
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -45,6 +59,15 @@ I’m a B.Tech Graduate specializing in Computer Science, passionate about creat
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="https://gitforwindows.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="gitbash" width="40" height="40"/> 
   </a>
   <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="oracle" width="40" height="40"/>
