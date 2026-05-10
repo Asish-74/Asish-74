@@ -2,7 +2,10 @@
 
 <!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Asish+Khuntia!;Java+%7C+Python+%7C+SQL+%7C+AWS+Learner;Aspiring+Data+Engineer+🚀" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Asish+Khuntia!;Java+%7C+Python+%7C+SQL+%7C+AWS+Learner;Aspiring+Data+Engineer+🚀" 
+    alt="Typing SVG" 
+  />
 </h1>
 
 <img align="right" alt="Coding" width="420" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
