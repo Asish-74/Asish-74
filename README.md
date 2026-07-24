@@ -141,11 +141,19 @@ Developed a scalable ETL pipeline following Medallion Architecture to process Io
 ---
 
 # 💻 Languages & Tools
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,aws,git,github,html,css,js,vscode,eclipse,mysql,postgresql" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,aws,git,github,html,css,js,vscode,eclipse,mysql,postgresql"/>
+
 <br><br>
-<img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" alt="Databricks" width="48" height="48"/>&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="48" height="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="48" height="48" alt="Databricks"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/snowflake" width="48" height="48" alt="Snowflake"/>
+
 </p>
 
 ---
