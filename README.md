@@ -154,19 +154,13 @@ Developed a scalable ETL pipeline following Medallion Architecture to process Io
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=asish-74&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asish-74&theme=tokyonight"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asish-74&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=asish-74&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asish-74&layout=compact&theme=tokyonight"/>
-
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asish-74&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
-
 ---
 
 # 🎯 Career Interests
