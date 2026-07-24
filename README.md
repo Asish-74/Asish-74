@@ -148,9 +148,7 @@ Developed a scalable ETL pipeline following Medallion Architecture to process Io
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="48" height="48" alt="Databricks"/>
-
-&nbsp;&nbsp;&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 <img src="https://cdn.simpleicons.org/snowflake" width="48" height="48" alt="Snowflake"/>
 
