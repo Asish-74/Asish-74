@@ -129,7 +129,7 @@ Developed a scalable ETL pipeline following Medallion Architecture to process Io
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/asish-khuntia-fullstackdeveloper">
+<a href="https://www.linkedin.com/in/asish-khuntia-software-engg">
 <img src="https://img.shields.io/badge/LinkedIn-Asish%20Khuntia-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
