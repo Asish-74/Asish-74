@@ -114,13 +114,14 @@ Developed a scalable ETL pipeline following Medallion Architecture to process Io
 
 # 📜 Certifications
 
-🏆 Web Development — Skill India
+- 🏆 **Data Engineering Training** – Revature Consultancy Services Pvt. Ltd.
+  - PySpark, Databricks, SQL, Python, Data Modeling, AWS Fundamentals
 
-🏆 AI Ethics — IBM
+- 🏆 **Web Development** – Skill India
 
-🏆 Java Programming — MotionCut
+- 🏆 **AI Ethics** – IBM
 
-🏆 Databricks Training — Revature
+- 🏆 **Java Programming** – MotionCut
 
 ---
 
